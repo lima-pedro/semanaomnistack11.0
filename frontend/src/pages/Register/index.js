@@ -4,6 +4,8 @@ import { Link, useHistory } from 'react-router-dom';
 import api from '../../services/api';
 
 import './styles.css';
+
+import logo from '../../assets/logo.svg';
  
 
 export default function Register () {
@@ -39,9 +41,9 @@ export default function Register () {
         <div className="register-container">
             <div className="content">
                 <section>
-                    <div className="logo-image">Be The Hero</div>
+                    <img src={logo} alt="Logo Be The Hero" />
                     
-                    <h1>Cadsatro</h1>
+                    <h1>Cadastro</h1>
                     <p>Faça seu cadastro, entre na plataforma e ajude pessoas a encontrarem os casos da sua ONG</p>
 
                     <Link className="back-link" to="/">

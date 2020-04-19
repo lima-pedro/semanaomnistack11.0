@@ -6,6 +6,8 @@ import api from '../../services/api';
 
 import './styles.css';
 
+import logo from '../../assets/logo.svg';
+
 export default function Profile () {
     const [incidents, setIncidents] = useState([]);
 
@@ -46,7 +48,7 @@ export default function Profile () {
     return (
         <div className="profile-container">
             <header>
-                <div className="logo-image">Be The hero</div>
+                <img src={logo} alt="Logo Be The Hero" height={60} />
                 <span>Bem-Vinda, {ongName}</span>
 
                 <Link className="button" to="/incidents/new">Cadastrar novo caso</Link>

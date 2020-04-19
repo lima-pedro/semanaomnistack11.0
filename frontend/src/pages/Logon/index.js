@@ -6,7 +6,7 @@ import api from '../../services/api';
 
 import './styles.css';
 
-// importar a logo da mesma forma
+import logo from '../../assets/logo.svg';
 import heroesImg from '../../assets/heroes.png';
 
 export default function Logon () {
@@ -29,7 +29,7 @@ export default function Logon () {
     return (
         <div className="logon-container">
             <section className="form">
-                <div className="logo-image">Be The Hero</div>
+                <img src={logo} alt="Logo Be The Hero"/>
 
                 <form onSubmit={handleLogin}>
                     <h1>Faça seu Logon</h1>

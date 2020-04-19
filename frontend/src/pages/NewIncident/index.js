@@ -5,6 +5,8 @@ import { Link, useHistory } from 'react-router-dom';
 import './styles.css';
 import api from '../../services/api';
 
+import logo from '../../assets/logo.svg';
+
 export default function NewIncident () {
     const [title, setTitle] = useState('');
     const [description, setDescription] = useState('');
@@ -39,7 +41,7 @@ export default function NewIncident () {
         <div className="new-incident-container">
             <div className="content">
                 <section>
-                    <div className="logo-image">Be The Hero</div>
+                    <img src={logo} alt="Be The Hero" />
                     
                     <h1>Cadsatrar novo caso</h1>
                     <p>Descreva o caso detalhadamente para encontrar um herói para resolver isso.</p>
