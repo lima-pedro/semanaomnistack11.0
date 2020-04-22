@@ -22,7 +22,7 @@ Ela também tem um painel admnistrativo onde pode cadastrar um novo caso :
 
 E também pode listar todos os seus casos : 
 
-![Listagem de caso por ONG](/img/profile.ong)
+![Listagem de caso por ONG](/img/profile.png)
 
 No mobile, temos a tela de carregamento do aplicativo :
 
@@ -30,11 +30,11 @@ No mobile, temos a tela de carregamento do aplicativo :
 
 A tela inicial que lista todos os casos abertos: 
 
-![Tela de listagem de todos casos no app](/img/list-all-mobile.png)
+![Tela de listagem de todos casos no app](/img/index-mobile.png)
 
 E por último a tela de detalhes do caso, onde a pessoa pode escolher ajudar, entrando em contato com a **ONG** via Whatsapp ou E-mail: 
 
-![Tela de detalhes do caso no app](/img/index.mobile.png)
+![Tela de detalhes do caso no app](/img/detail-incident.png)
 
 O backend é uma api RESTful , construída utilizando *Node.JS*; o frontend web é construído com *React*; e o mobile com *React Native*. 
 
