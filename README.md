@@ -1,7 +1,11 @@
 ![Be The Hero](/img/icon.png "Be The Hero") 
-# BE THE HERO ![Node.JS](/img/node.png)
+# BE THE HERO 
+![Node.JS](/img/node.png) 
+![React.JS](/img/react.png)
 ## Projeto desenvolvido na Semana Omnistack 11.0
 ### Ministrada por [Diego Fernandes](https://github.com/diego3g) **CTO** na [Rocketseat](https://github.com/Rocketseat)
+
+*Página criada por **Pedro Lima** *
 
 A Semana Omnistack é oferecida gratuitamente pela [Rocketseat](https://rocketseat.com.br/), para aprensentar as tecnologias mais modernas no mercado, utilizando a linguagem [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico).
  
