@@ -1,4 +1,4 @@
-!(/img/icon.png "Be The Hero")
+![Be The Hero](/img/icon.png "Be The Hero")
 # BE THE HERO 
 ## Projeto desenvolvido na Semana Omnistack 11.0
 
