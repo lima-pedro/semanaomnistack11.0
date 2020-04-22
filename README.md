@@ -6,6 +6,36 @@ A Semana Omnistack é oferecida gratuitamente pela [Rocketseat](https://rocketse
  
 Bastante desafiadora e também produtiva, na Semana Omnistack 11.0, foi desenvolvida uma aplicação para que **ONG's** que necessitam de ajuda financeira, possam cadastrar e compartilhar casos de necessidades especiais que tem no seu dia a dia, e alguém obtendo o aplicativo *mobile* pode entrar em contato com a **ONG** e fazer a doação.
 
+No frontend Web a ONG pode fazer o login, cadsatrar casos, lista-los, etc.
+
+Tela de Login Web:
+
+![Tela de Login](/img/logon.png)
+
+A **ONG** pode fazer um cadastro : 
+
+![Tela de cadsatro de ONG](/img/register.png)
+
+Ela também tem um painel admnistrativo onde pode cadastrar um novo caso :
+
+![Cadastro de um novo caso da ONG](/img/new-incident.png)
+
+E também pode listar todos os seus casos : 
+
+![Listagem de caso por ONG](/img/profile.ong)
+
+No mobile, temos a tela de carregamento do aplicativo :
+
+![Tela de carregamento do app](/img/splash.png)
+
+A tela inicial que lista todos os casos abertos: 
+
+![Tela de listagem de todos casos no app](/img/list-all-mobile.png)
+
+E por último a tela de detalhes do caso, onde a pessoa pode escolher ajudar, entrando em contato com a **ONG** via Whatsapp ou E-mail: 
+
+![Tela de detalhes do caso no app](/img/index.mobile.png)
+
 O backend é uma api RESTful , construída utilizando *Node.JS*; o frontend web é construído com *React*; e o mobile com *React Native*. 
 
 
