@@ -1,3 +1,4 @@
+!(/img/icon.png "Be The Hero")
 # BE THE HERO 
 ## Projeto desenvolvido na Semana Omnistack 11.0
 
@@ -11,18 +12,18 @@ O backend é uma api RESTful , construída utilizando *Node.JS*; o frontend web 
 
 ### Tecnolgias usadas
 #### Backend
--Node.JS
--Express
--Knex.JS
+- Node.JS
+- Express
+- Knex.JS
 
 #### Banco de dados
--SQlite
+- SQlite
 
 #### Frontend
--React
--Axios
+- React
+- Axios
 
 #### Mobile
--React Native
--Expo
--Axios
+- React Native
+- Expo
+- Axios
