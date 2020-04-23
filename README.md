@@ -14,23 +14,23 @@ Bastante desafiadora e também produtiva, na Semana Omnistack 11.0, foi desenvol
 O backend é uma api RESTful , construída utilizando *Node.JS*; o frontend web é construído com *React*; e o mobile com *React Native*. 
 
 ### Tecnolgias usadas - BACKEND
-- Node.JS
-- Express
-- Knex.JS
+- [Node.JS](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [Knex.JS](https://knexjs.org/)
 
 #### Banco de dados
-- SQlite
+- [SQlite](https://sqlite.org/index.html)
 
 No frontend Web a ONG pode fazer o login, cadsatrar casos, lista-los, etc.
 
 ### Tecnolgias usadas - FRONTEND E MOBILE
-- React
-- Axios
+- [React](https://reactjs.org/)
+- [Axios](https://www.npmjs.com/package/axios)
 
 #### Mobile
-- React Native
-- Expo
-- Axios
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [Axios](https://www.npmjs.com/package/axios)
 
 
 Tela de Login Web:
