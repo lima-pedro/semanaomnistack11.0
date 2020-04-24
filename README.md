@@ -2,6 +2,8 @@
 # BE THE HERO 
 ![Node.JS](/img/node.png) 
 ![React.JS](/img/react.png)
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
 ## Projeto desenvolvido na Semana Omnistack 11.0
 ### Ministrada por [Diego Fernandes](https://github.com/diego3g) **CTO** na [Rocketseat](https://github.com/Rocketseat)
 
