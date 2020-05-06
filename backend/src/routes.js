@@ -12,7 +12,7 @@ routes.post('/sessions', SessionController.create);
 routes.get('/profile', ProfileController.index);
 
 routes.post('/ongs', OngController.create);
-routes.get('/ongs', OngController.index);
+routes.get('/ongs', OngController.index); 
 
 routes.post('/incidents', IncidentController.create);
 routes.get('/incidents', IncidentController.index);

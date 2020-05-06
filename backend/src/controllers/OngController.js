@@ -14,7 +14,7 @@ module.exports = {
             whatsapp,
             city,
             uf
-        })
+        }) 
 
         return response.json({ id })
     }, 
